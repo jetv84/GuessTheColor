@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa072e6d71d74d4479e0330a442800f0, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  initTotalAmmount: 100
+  betAmmountMultiplier: 10
+  betColorA:
+    serializedVersion: 2
+    rgba: 4283540562
+  nameColorA: Green
+  betColorB:
+    serializedVersion: 2
+    rgba: 4282664157
+  nameColorB: Red
+  chipPrefab: {fileID: 562767595159893600, guid: 5b340d6ae6ef85244bbd2cf743b49aa3,
+    type: 3}
+  stackOffsetMultiplier: 0.14
+  bulkOffsetMultiplier: 0.4
+  chipColors:
+  - serializedVersion: 2
+    rgba: 4291493632
+  - serializedVersion: 2
+    rgba: 4288347904
+  - serializedVersion: 2
+    rgba: 4278255415
+  - serializedVersion: 2
+    rgba: 4278255516
+  - serializedVersion: 2
+    rgba: 4278255582
+  - serializedVersion: 2
+    rgba: 4278255615
+  - serializedVersion: 2
+    rgba: 4278244863
+  - serializedVersion: 2
+    rgba: 4278235391
+  - serializedVersion: 2
+    rgba: 4278223615
+  - serializedVersion: 2
+    rgba: 4278212095
+  enableFXSounds: 0
